@@ -5,7 +5,7 @@
             <table class="table-responsive ">
               <thead>
                 <tr>
-                    <th>Nombre</th>
+                    <th>Nombre Edificio</th>
                 </tr>
               </thead>
               <tbody>
