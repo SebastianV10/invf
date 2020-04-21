@@ -1,4 +1,4 @@
-# INVENTARIO FRONT
+# INVENTORY FRONT
 
 frontend 
 
